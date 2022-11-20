@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/11/05 14:25:42.000.702,=C:\Users\ALBERTO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/06 08:36:14.000.145,=C:\Users\ALBERTO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/06 08:37:36.000.682,C:\Users\ALBERTO\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\ALBERTO\Documents\Embarcadero\Studio\Projects\ACPDF.dproj</Transaction>
+    <Transaction>2022/11/06 08:37:43.000.340,C:\Users\ALBERTO\Documents\Embarcadero\Studio\Projects\ACPDF.dproj=C:\Users\ALBERTO\Documents\Embarcadero\Studio\Projects\ACPDV.dproj</Transaction>
+    <Transaction>2022/11/06 08:39:14.000.439,C:\Users\ALBERTO\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Treinamento\Ac-Pdv\src\views\acpdv.view.principal.dfm</Transaction>
+    <Transaction>2022/11/06 08:39:14.000.439,C:\Users\ALBERTO\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Treinamento\Ac-Pdv\src\views\acpdv.view.principal.pas</Transaction>
+    <Transaction>2022/11/06 08:39:30.000.316,C:\Users\ALBERTO\Documents\Embarcadero\Studio\Projects\ACPDV.dproj=E:\Treinamento\Ac-Pdv\ACPDV.dproj</Transaction>
+    <Transaction>2022/11/12 16:48:05.000.911,=E:\Treinamento\Ac-Pdv\Unit1.pas</Transaction>
+    <Transaction>2022/11/12 16:48:32.000.920,E:\Treinamento\Ac-Pdv\Unit1.dfm=E:\Treinamento\Ac-Pdv\src\views\acpdv.view.login.dfm</Transaction>
+    <Transaction>2022/11/12 16:48:32.000.920,E:\Treinamento\Ac-Pdv\Unit1.pas=E:\Treinamento\Ac-Pdv\src\views\acpdv.view.login.pas</Transaction>
+    <Transaction>2022/11/12 16:49:18.000.946,E:\Treinamento\Ac-Pdv\src\views\acpdv.view.login.dfm=E:\Treinamento\Ac-Pdv\src\views\acpdv.view.page.login.dfm</Transaction>
+    <Transaction>2022/11/12 16:49:18.000.946,E:\Treinamento\Ac-Pdv\src\views\acpdv.view.login.pas=E:\Treinamento\Ac-Pdv\src\views\acpdv.view.page.login.pas</Transaction>
+    <Transaction>2022/11/12 17:59:07.000.479,=E:\Treinamento\Ac-Pdv\Unit1.pas</Transaction>
+    <Transaction>2022/11/12 18:01:04.000.868,E:\Treinamento\Ac-Pdv\src\views\componentes\acpdv.view.componente.transparencia.pas=E:\Treinamento\Ac-Pdv\Unit1.pas</Transaction>
+    <Transaction>2022/11/12 18:01:04.000.868,E:\Treinamento\Ac-Pdv\src\views\componentes\acpdv.view.componente.transparencia.dfm=E:\Treinamento\Ac-Pdv\Unit1.dfm</Transaction>
+    <Transaction>2022/11/12 18:38:20.000.257,=E:\Treinamento\Ac-Pdv\Unit1.pas</Transaction>
+    <Transaction>2022/11/12 18:39:37.000.691,E:\Treinamento\Ac-Pdv\src\model\acpdv.model.dados.dfm=E:\Treinamento\Ac-Pdv\Unit1.dfm</Transaction>
+    <Transaction>2022/11/12 18:39:37.000.691,E:\Treinamento\Ac-Pdv\src\model\acpdv.model.dados.pas=E:\Treinamento\Ac-Pdv\Unit1.pas</Transaction>
+    <Transaction>2022/11/20 16:17:25.877,=E:\Treinamento\Ac-Pdv\Unit1.pas</Transaction>
+    <Transaction>2022/11/20 16:22:13.502,E:\Treinamento\Ac-Pdv\src\views\acpdv.view.page.pagamentos.dfm=E:\Treinamento\Ac-Pdv\Unit1.dfm</Transaction>
+    <Transaction>2022/11/20 16:22:13.502,E:\Treinamento\Ac-Pdv\src\views\acpdv.view.page.pagamentos.pas=E:\Treinamento\Ac-Pdv\Unit1.pas</Transaction>
+    <Transaction>2022/11/20 18:53:02.643,=E:\Treinamento\Ac-Pdv\Unit1.pas</Transaction>
+    <Transaction>2022/11/20 18:56:23.589,E:\Treinamento\Ac-Pdv\src\views\acpdv.view.page.pix.dfm=E:\Treinamento\Ac-Pdv\Unit1.dfm</Transaction>
+    <Transaction>2022/11/20 18:56:23.589,E:\Treinamento\Ac-Pdv\src\views\acpdv.view.page.pix.pas=E:\Treinamento\Ac-Pdv\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
